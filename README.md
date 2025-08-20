@@ -94,9 +94,15 @@ The project includes a **Credit Risk Analysis Dashboard** that transforms model 
 
 ---
 
-## 🙌 Credits
+### 🧑‍💻 Developer
+**R. Shrinivass**
+(Data Scientist)
+📬 LinkedIn: https://www.linkedin.com/in/shrinivassraju14/
 
-Project designed and developed by **Shrinivass Raju**.
+---
+
+# ⭐ Show some ❤️ by starring this repo!
+
 
 ---
 
