@@ -68,7 +68,6 @@ The most important predictors of loan default were:
 
 Negative coefficients (e.g., **loan\_purpose\_Home**, **residence\_type\_Owned**) indicate features that **reduce the likelihood of default**.
 
-![Feature Importance](85ed4335-bc33-4335-8062-dc10d186331d.png)
 
 📌 For deeper analysis and insights, please check the attached Jupyter Notebook (`Smart_Credit_Scoring.ipynb`).
 
