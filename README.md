@@ -68,14 +68,30 @@ The most important predictors of loan default were:
 
 Negative coefficients (e.g., **loan\_purpose\_Home**, **residence\_type\_Owned**) indicate features that **reduce the likelihood of default**.
 
-📌 For deeper analysis and insights, please check the attached Jupyter Notebook (`Credit_risk_model.ipynb`).
+![Feature Importance](85ed4335-bc33-4335-8062-dc10d186331d.png)
+
+📌 For deeper analysis and insights, please check the attached Jupyter Notebook (`Smart_Credit_Scoring.ipynb`).
 
 ---
 
-## 🚀 Application
+## 🖥️ Dashboard Overview
 
-You can try out the live application here:
-👉 [Smart Credit Scoring App](https://smart-credit-scoring.streamlit.app/)
+The project includes a **Credit Risk Analysis Dashboard** that transforms model predictions into an interactive and user-friendly interface.
+
+### Key Features:
+
+* **Applicant Information Input** – capture age, income, loan details, residence type, open accounts, and tenure.
+* **Risk Categories** – classify applicants into Excellent, Good, Average, or Poor categories.
+* **Risk Assessment Results** – show probability of default, credit score, and credit rating.
+* **Visualizations** – gauge chart for default risk percentage and supporting metrics.
+* **Actionable Recommendations** –
+
+  * **Approval Decision**: Should the loan be approved or rejected?
+  * **Risk Controls**: Guidance on managing credit exposure.
+  * **Improvement Actions**: Suggestions for applicants to improve eligibility.
+
+
+👉 Try it live here: [Smart Credit Scoring App](https://smart-credit-scoring.streamlit.app/)
 
 ---
 
@@ -84,6 +100,4 @@ You can try out the live application here:
 Project designed and developed by **Shrinivass Raju**.
 
 ---
-
-
 
